@@ -16,7 +16,7 @@
 
 ## 📂 Proyectos Destacados
 
-### 📌 [🌍 Análisis de Aptitud Agrícola en Nariño](#)  
+### 📌 [🌍 Análisis de Aptitud Agrícola en Nariño](https://github.com/ibarajas248/proyecto-aptitud-agricola)  
 🚜 **Evaluación geoespacial de la aptitud agrícola** en Nariño, Colombia, utilizando **SIG, Python y datos abiertos** para identificar las mejores áreas para cultivos como **caña panelera, papa y arveja**.  
 Se generaron **mapas interactivos** con **GeoPandas y Folium** para la visualización de datos espaciales.  
 
@@ -40,6 +40,12 @@ Se generaron **mapas interactivos** con **GeoPandas y Folium** para la visualiza
 
 ### 📌 [Localizator Bogotá](https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales)  
 📍 Solución de búsqueda y evaluación de locales comerciales en Bogotá, utilizando analítica de datos para mejorar la toma de decisiones.  
+
+### 📌 [☕ TR Coffee: Análisis del Café Colombiano](https://trcoffe.streamlit.app/)  
+📊 Plataforma interactiva para el análisis del **mercado del café en Colombia**, explorando datos sobre **contratos, exportaciones, calidad y predicción de demanda**.  
+🔍 Utiliza **Python, Streamlit, Pandas y Plotly** para la visualización dinámica y predicción basada en modelos de machine learning.  
+🌍 Incluye **mapas interactivos con SIG** para evaluar la aptitud del suelo para el cultivo de café.  
+
 
 
 
