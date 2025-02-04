@@ -11,27 +11,35 @@
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
 - **Visualización:** Matplotlib, Seaborn, Power BI, Tableau
 - **Análisis y Modelado:** Pandas, NumPy, Scikit-learn
-- **Herramientas & Tecnologías:** Jupyter Notebook, Google Colab, GitHub, Docker
+- **Herramientas & Tecnologías:** Jupyter Notebook, Google Colab, GitHub.
+  
 
 ## 📂 Proyectos Destacados
 
 ### 📌 [Análisis de Partidos de Fútbol](https://rendimientodeportivo-ba5hznk7mu4c6gvfgwhhve.streamlit.app/)
-📊 Exploración y visualización de datos de partidos de fútbol, incluyendo métricas de rendimiento, estadísticas avanzadas y predicción de resultados.
+📊 Exploración y visualización de datos de partidos de fútbol, incluyendo métricas de rendimiento, estadísticas avanzadas y predicción de resultados.  
+
+
 
 ### 📌 [Optimización de Producción Textil](https://tiemposappuccionkhushi-5z.streamlit.app/)
-🧵 Análisis de tiempos de producción y eficiencia operativa en la industria textil, utilizando SQL y visualización de datos para mejorar procesos.
-![image](https://github.com/user-attachments/assets/78992c39-6813-48d9-a73d-3adf36834e36)
+🧵 Análisis de tiempos de producción y eficiencia operativa en la industria textil, utilizando SQL y visualización de datos para mejorar procesos.  
 
 
 
+### 📌 [Gestión Digital de Colecciones de Museos](https://github.com/ibarajas248/coleccion-thyssen-bornemisza_)  
+🏛️ Aplicación web para la extracción mediante **scraping** de colecciones de museos, permitiendo su gestión digital para investigación y consulta.  
 
-### 📌 [Scraping de Datos de Población](https://github.com/usuario/proyecto-scraping-poblacion)
-🌎 Web scraping de datos de población desde fuentes gubernamentales y su análisis en MySQL para estudios demográficos.
+
+### 📌 [B2B ConnectSmart](https://github.com/ibarajas248/b2b-ConnectSmart-hackaton)  
+🤝 Aplicación ganadora de **Hackathon TalentoTECH**, que optimiza la búsqueda inteligente de proveedores en entornos B2B.  
+
+### 📌 [Localizator Bogotá](https://github.com/ibarajas248/Hackathon-TalentoTECH-Locales-Comerciales)  
+📍 Solución de búsqueda y evaluación de locales comerciales en Bogotá, utilizando analítica de datos para mejorar la toma de decisiones.  
+
+
 
 ## 📬 Contacto
-📧 **Email:** usuario@email.com  
-💼 **LinkedIn:** [linkedin.com/in/usuario](https://linkedin.com/in/usuario)  
-🐦 **Twitter/X:** [@usuario](https://twitter.com/usuario)
+📧 **Email:** ivanbarajashurtado@gmail.com 
 
----
-⭐ No olvides darme una ⭐ si encuentras útil este portafolio.
+
+
