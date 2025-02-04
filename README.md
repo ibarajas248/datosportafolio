@@ -16,6 +16,11 @@
 
 ## 📂 Proyectos Destacados
 
+### 📌 [🌍 Análisis de Aptitud Agrícola en Nariño](#)  
+🚜 **Evaluación geoespacial de la aptitud agrícola** en Nariño, Colombia, utilizando **SIG, Python y datos abiertos** para identificar las mejores áreas para cultivos como **caña panelera, papa y arveja**.  
+Se generaron **mapas interactivos** con **GeoPandas y Folium** para la visualización de datos espaciales.  
+
+
 ### 📌 [Análisis de Partidos de Fútbol](https://rendimientodeportivo-ba5hznk7mu4c6gvfgwhhve.streamlit.app/)
 📊 Exploración y visualización de datos de partidos de fútbol, incluyendo métricas de rendimiento, estadísticas avanzadas y predicción de resultados.  
 
