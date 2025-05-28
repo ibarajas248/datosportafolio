@@ -16,6 +16,12 @@
 
 ## 📂 Proyectos Destacados
 
+### 📌 [🌱 Exploración de Suelo Apto para Cultivo de Cacao en Colombia](https://github.com/ibarajas248/cacao)  
+🍫 **Análisis geoespacial de la aptitud agrícola para el cultivo de cacao** en Colombia, utilizando **Python, SIG y datos abiertos** para identificar las mejores áreas productivas.  
+Se descargaron datos oficiales mediante API, se procesaron con **Pandas** y **GeoPandas**, y se crearon **mapas interactivos** con **Folium** y una aplicación web con **Streamlit** para explorar las zonas aptas (alta y media) para el cultivo de cacao.  
+
+
+
 ### 📌 [🌍 Análisis de Aptitud Agrícola en Nariño](https://github.com/ibarajas248/proyecto-aptitud-agricola)  
 🚜 **Evaluación geoespacial de la aptitud agrícola** en Nariño, Colombia, utilizando **SIG, Python y datos abiertos** para identificar las mejores áreas para cultivos como **caña panelera, papa y arveja**.  
 Se generaron **mapas interactivos** con **GeoPandas y Folium** para la visualización de datos espaciales.  
