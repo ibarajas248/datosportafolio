@@ -18,7 +18,18 @@
 
 ## 📂 Proyectos Destacados
 
+
+TikTok Scraper
+
+### 📌 [ TikTok Scraper](https://github.com/ibarajas248/scraping-tik-tok)  
+
+Automatización con Python y Selenium para buscar videos por palabra clave, descargar los primeros resultados y extraer comentarios visibles.  
+Los videos se guardan localmente y los comentarios se exportan a Excel para análisis posterior.  
+Ideal para estudios de opinión, monitoreo de tendencias o análisis de discurso en redes sociales.
+
+
 ### 📌 [🌱 Exploración de Suelo Apto para Cultivo de Cacao en Colombia](https://github.com/ibarajas248/cacao)  
+
 🍫 **Análisis geoespacial de la aptitud agrícola para el cultivo de cacao** en Colombia, utilizando **Python, SIG y datos abiertos** para identificar las mejores áreas productivas.  
 Se descargaron datos oficiales mediante API, se procesaron con **Pandas** y **GeoPandas**, y se crearon **mapas interactivos** con **Folium** y una aplicación web con **Streamlit** para explorar las zonas aptas (alta y media) para el cultivo de cacao.  
 
