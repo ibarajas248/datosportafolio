@@ -1,6 +1,7 @@
 # 📊 Data Analyst Portfolio
+[![web scraping](https://img.shields.io/badge/Web%20Scraping-black?style=for-the-badge&logo=python)](https://github.com/ibarajas248/scraping)
 
-[![web scraping](https://img.shields.io/badge/Análisis%20de%20Datos-blue?style=for-the-badge)](https://github.com/ibarajas248/datosportafolio)
+
 
 ¡Hola! Soy un **Analista de Datos** con experiencia en la extracción, limpieza, análisis y visualización de datos. Me apasiona transformar datos en información valiosa para la toma de decisiones. Aquí encontrarás algunos de mis proyectos más relevantes.
 
