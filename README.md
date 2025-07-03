@@ -19,6 +19,13 @@
 
 ## 📂 Proyectos Destacados
 
+### 📌 [Scraping SuperSociedades](https://github.com/ibarajas248/scraping-supersociedades)  
+
+Automatización con Python y Selenium para extraer datos financieros de empresas desde el portal de la Superintendencia de Sociedades de Colombia.  
+Se recorren múltiples páginas para recolectar el nombre de la empresa, activos, ingresos y utilidad neta.  
+Los resultados se exportan automáticamente a un archivo Excel para análisis posterior. Ideal para investigación empresarial, análisis sectorial o proyectos de ciencia de datos.
+
+
 
 TikTok Scraper
 
